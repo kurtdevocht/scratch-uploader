@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+Bin/Debug
+Src/obj
+Bin/Release/CoderDojo.Scratch.Uploader.pdb
+Bin/Release/CoderDojo.Scratch.Uploader.vshost.exe
+Bin/Release/CoderDojo.Scratch.Uploader.vshost.exe.config
+Bin/Release/CoderDojo.Scratch.Uploader.vshost.exe.manifest
+Src/Scratch.Uploader.v12.suo
