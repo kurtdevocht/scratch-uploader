@@ -5,10 +5,10 @@ Can be used to automate uploading your Scratch 2.0 projects to the Scratch websi
 
 1. Select the folder that contains your Scratch projects (.sb2)
 
-C:\MyAwesomeProjects\Thinghy1.sb2
-C:\MyAwesomeProjects\Thinghy2.sb2
-C:\MyAwesomeProjects\X-Mas Special\Jingle.sb2
-C:\MyAwesomeProjects\X-Mas Special\Bells.sb2
+>C:\MyAwesomeProjects\Thinghy1.sb2
+>C:\MyAwesomeProjects\Thinghy2.sb2
+>C:\MyAwesomeProjects\X-Mas Special\Jingle.sb2
+>C:\MyAwesomeProjects\X-Mas Special\Bells.sb2
 
 2. Select a prefix, and all files will be copied to an intermediate subdirectory '__out'. If '__out' already exists, this directory should be deleted first.
 
