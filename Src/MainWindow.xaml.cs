@@ -168,13 +168,14 @@ namespace Scratch.Uploader
 
 							if ( !response.IsSuccessStatusCode )
 							{
-
+								m_model.Log( "*** Failed to upload '" + fileName + "'" );
 							}
 							else
 							{
+								m_model.Log( "Uploaded '" + fileName + "'" );
 							}
 
-							m_model.Log( "Uploaded '" + fileName + "'" );
+							
 						}
 					}
 				}
